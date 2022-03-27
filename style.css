@@ -17,3 +17,12 @@ h1 {
     border-radius:25px;
     margin:auto;
 }
+
+.mainDiv b {
+    background-color: yellow;
+}
+
+.subDiv {
+    padding: 20px;
+    
+}
